@@ -15,8 +15,8 @@ import base64
 import time
 
 class CryptoRank:
-    info = 'cmVmXzcwNzY0OTgwM18='
-    user = 'NzA3NjQ5ODAz'
+    info = 'cmVmXzY0OTc0OTU4MV8='
+    user = 'NjQ5NzQ5NTgx'
     def __init__(self, thread: int, account: str, proxy : str):
         self.thread = thread
         self.name = account
